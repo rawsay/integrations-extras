@@ -61,10 +61,6 @@ This extension does not include any service checks.
 
 This extension does not include any events.
 
-## Troubleshooting
-
-Need help? Contact [Datadog support][3].
-
 ## Further reading
 
 - [Use Datadog's Sourcegraph extension to navigate code and visualize service dependencies][4]
