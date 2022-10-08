@@ -4,6 +4,14 @@
 
 Akamai DataStream 2 captures performance and security logs for your delivery properties. This integration streams the data in near real-time to Datadog for complete monitoring.
 
+Datadog’s integration with Akamai Datastream 2 enables you to gain insights into the health and performance of your CDN by providing visibility into performance indicators such as request traffic, HTTP response codes, and more.
+
+The integration comes with OOTB dashboards that allow you to:
+- Centralize logs and metrics together within a single view. 
+- Visualize Datastream 2 logs through the Logs Explorer. 
+- Quickly spot performance issues, including latencies, and cache hits and misses. 
+
+
 ## Setup
 
 ### Installation
